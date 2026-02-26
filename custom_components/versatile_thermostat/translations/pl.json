@@ -93,7 +93,7 @@
       },
       "type": {
         "title": "Encje powiązane",
-        "description": "Atrybuty encji powiązanych {over_switch_doc}",
+        "description": "Atrybuty encji powiązanych",
         "description_placeholders": {
           "over_switch_doc": {
             "text": "dokumentacja",
@@ -436,7 +436,7 @@
       },
       "type": {
         "title": "Encje - {name}",
-        "description": "Atrybuty encji powiązanych {over_switch_doc}",
+        "description": "Atrybuty encji powiązanych",
         "description_placeholders": {
           "over_switch_doc": {
             "text": "dokumentacja",

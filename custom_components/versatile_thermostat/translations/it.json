@@ -96,7 +96,7 @@
             },
             "type": {
                 "title": "Entità collegate",
-                "description": "Attributi delle entità collegate {over_switch_doc}",
+                "description": "Attributi delle entità collegate",
                 "description_placeholders": {
                     "over_switch_doc": {
                         "text": "documentazione",
@@ -478,7 +478,7 @@
             },
             "type": {
                 "title": "Carateristiche - {name}",
-                "description": "Attributi delle entità collegate {over_switch_doc}",
+                "description": "Attributi delle entità collegate",
                 "description_placeholders": {
                     "over_switch_doc": {
                         "text": "documentazione",

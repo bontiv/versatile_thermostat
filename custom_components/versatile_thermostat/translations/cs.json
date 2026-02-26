@@ -94,7 +94,7 @@
       },
       "type": {
         "title": "Propojené entity",
-        "description": "Atributy propojených entit {over_switch_doc}",
+        "description": "Atributy propojených entit",
         "description_placeholders": {
           "over_switch_doc": {
             "text": "dokumentace",
@@ -427,7 +427,7 @@
       },
       "type": {
         "title": "Entity - {name}",
-        "description": "Atributy propojených entit {over_switch_doc}",
+        "description": "Atributy propojených entit",
         "description_placeholders": {
           "over_switch_doc": {
             "text": "dokumentace",

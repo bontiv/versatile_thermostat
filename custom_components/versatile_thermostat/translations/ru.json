@@ -92,7 +92,7 @@
       },
       "type": {
         "title": "Связанные сущности",
-        "description": "Атрибуты связанных сущностей {over_switch_doc}",
+        "description": "Атрибуты связанных сущностей",
         "description_placeholders": {
           "over_switch_doc": {
             "text": "документация",
@@ -429,7 +429,7 @@
       },
       "type": {
         "title": "Сущности - {name}",
-        "description": "Атрибуты связанных сущностей {over_switch_doc}",
+        "description": "Атрибуты связанных сущностей",
         "data": {
           "underlying_entity_ids": "Устройство(а) для управления",
           "heater_keep_alive": "Интервал поддержания переключателя (секунды)",

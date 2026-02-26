@@ -97,7 +97,7 @@
       },
       "type": {
         "title": "Entité(s) liée(s)",
-        "description": "Attributs de(s) l'entité(s) liée(s) {over_switch_doc}",
+        "description": "Attributs de(s) l'entité(s) liée(s)",
         "description_placeholders": {
           "over_switch_doc": {
             "text": "documentation",
@@ -480,7 +480,7 @@
       },
       "type": {
         "title": "Entité(s) liée(s) - {name}",
-        "description": "Attributs de(s) l'entité(s) liée(s) {over_switch_doc}",
+        "description": "Attributs de(s) l'entité(s) liée(s)",
         "description_placeholders": {
           "over_switch_doc": {
             "text": "documentation",
