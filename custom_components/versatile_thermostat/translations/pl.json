@@ -94,12 +94,6 @@
       "type": {
         "title": "Encje powiązane",
         "description": "Atrybuty encji powiązanych",
-        "description_placeholders": {
-          "over_switch_doc": {
-            "text": "dokumentacja",
-            "url": "https://github.com/jmcollin78/versatile_thermostat/blob/main/documentation/pl/over-switch.md#configuration"
-          }
-        },
         "data": {
           "underlying_entity_ids": "Sterowane urządzenia",
           "heater_keep_alive": "Czas podtrzymania (w sek.)",
@@ -437,12 +431,6 @@
       "type": {
         "title": "Encje - {name}",
         "description": "Atrybuty encji powiązanych",
-        "description_placeholders": {
-          "over_switch_doc": {
-            "text": "dokumentacja",
-            "url": "https://github.com/jmcollin78/versatile_thermostat/blob/main/documentation/pl/over-switch.md#configuration"
-          }
-        },
         "data": {
           "underlying_entity_ids": "Sterowane urządzenie(-a)",
           "heater_keep_alive": "Czas podtrzymania (w sek.)",
